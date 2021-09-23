@@ -8,54 +8,55 @@ A woman fired a shot at a man with her gun, but the man did not die. List the po
 
 1.  Det var en paintball gevær
 2.  Det var en splatterpistol
-3.  Der blev skudt med en nerf gun
-4.  Det var en vandpistol
-5.  Det var en plastikpistol
-6.  Det var en træpistol
-7.  Det var en legetøjspistol
-8.  Pistolen var en rekvisit
-9.  Pistolen var i stykker og kunne ikke skyde
-10.  Det var en gammel pistol, som var blevet våd så krudtet var også vådt og kunne derfor ikke skyde
-11.  Hun ramte ved siden af
-12.  Hun ramte mandens spejlbillede
-13.  Hun skød efter et hologram
-14.  Hun skød et billede
-15.  Hun var påvirket af narkotika og så syner
-16.  Hun var fuld og så dobbelt og sigtede efter den forkerte
-17.  Det var en drøm og hun nåede at vågne før manden døde
-18.  Damen er skeløjet og sigtede forkert
-19.  Kuglen snittede kun huden, så der kom en lille skramme
-20.  Kuglen ramte ikke nogen form for vitale organer
-21.  Manden stod bag skudsikkert glas
-22.  Manden forblødte ikke af såret
-23.  Manden havde en skudsikker vest på
-24.  Manden nåede at rykke sig til siden i det pistolen trækkes frem
-25.  Manden blev ramt i brystet, men kuglen ramte korset på hans halskæde, som han havde på under sit tøj
-26.  Manden nåede at skyde damen hurtigere
-27.  Manden skød også efter damen og deres kugler ramte hinanden i luften
-28.  Hun skød efter en mand som var i tv
-29.  Kuglen ramte hans øre
-30.  Han fik skudt fingeren af
-31.  Han blev ramt i foden
-32.  Der blev ikke ramt nogen større blodårer
-33.  Der var en person som gik ind foran og blev ramt i stedet for
-34.  Kuglen ramte en blodåre, men sidder stadig og blokerer så blodet ikke sprøjter voldsomt ud
-35.  Manden blev ramt i en knogle
-36.  Kuglen gik igennem armen
-37.  Kuglen ramte et vigtigt sted på kroppen, men kom ikke dybt nok ind
-38.  Hun skød efter manden, men der var ikke noget magasin i pistolen
-39.  Damen skød, men sikringen var slået til
-40.  Pistolens magasin var tomt
-41.  Kuglen satte sig fast i løbet af pistolen
-42.  Kuglen splittede sig ad i luften og kun små fragmenter af kuglen ramte manden
-43.  Den mand hun skød efter var en mannequin
-44.  Manden var allerede død før hun ramte ham
-45.  Hun skød efter en person i en bil og kuglen satte sig fast i døren
-46.  Manden havde et stort kostume på, så kostumet blev ramt, men ikke manden
-47.  De prøvede at klippe mandens lange hår ved at skyde det af
-48.  Det var i en mørk gyde og hun kom til at skyde efter hans skygge
-49.  Det var de forkerte kugler i pistolen, så det ødelagde pistolen og kuglen
-50.  Pistolen gled ud af hånden på damen i det kun skyder efter manden og rammer derfor ikke
+3.  Det var en finger gun
+4.  Der blev skudt med en nerf gun
+5.  Det var en vandpistol
+6.  Det var en plastikpistol
+7.  Det var en træpistol
+8.  Det var en legetøjspistol
+9.  Pistolen var en rekvisit
+10.  Pistolen var i stykker og kunne ikke skyde
+11.  Det var en gammel pistol, som var blevet våd så krudtet var også vådt og kunne derfor ikke skyde
+12.  Hun ramte ved siden af
+13.  Hun ramte mandens spejlbillede
+14.  Hun skød efter et hologram
+15.  Hun skød et billede
+16.  Hun var påvirket af narkotika og så syner
+17.  Hun var fuld og så dobbelt og sigtede efter den forkerte
+18.  Det var en drøm og hun nåede at vågne før manden døde
+19.  Damen er skeløjet og sigtede forkert
+20.  Kuglen snittede kun huden, så der kom en lille skramme
+21.  Kuglen ramte ikke nogen form for vitale organer
+22.  Manden stod bag skudsikkert glas
+23.  Manden forblødte ikke af såret
+24.  Manden havde en skudsikker vest på
+25.  Manden nåede at rykke sig til siden i det pistolen trækkes frem
+26.  Manden blev ramt i brystet, men kuglen ramte korset på hans halskæde, som han havde på under sit tøj
+27.  Manden nåede at skyde damen hurtigere
+28.  Manden skød også efter damen og deres kugler ramte hinanden i luften
+29.  Hun skød efter en mand som var i tv
+30.  Kuglen ramte hans øre
+31.  Han fik skudt fingeren af
+32.  Han blev ramt i foden
+33.  Der blev ikke ramt nogen større blodårer
+34.  Der var en person som gik ind foran og blev ramt i stedet for
+35.  Kuglen ramte en blodåre, men sidder stadig og blokerer så blodet ikke sprøjter voldsomt ud
+36.  Manden blev ramt i en knogle
+37.  Kuglen gik igennem armen
+38.  Kuglen ramte et vigtigt sted på kroppen, men kom ikke dybt nok ind
+39.  Hun skød efter manden, men der var ikke noget magasin i pistolen
+40.  Damen skød, men sikringen var slået til
+41.  Pistolens magasin var tomt
+42.  Kuglen satte sig fast i løbet af pistolen
+43.  Kuglen splittede sig ad i luften og kun små fragmenter af kuglen ramte manden
+44.  Den mand hun skød efter var en mannequin
+45.  Manden var allerede død før hun ramte ham
+46.  Hun skød efter en person i en bil og kuglen satte sig fast i døren
+47.  Manden havde et stort kostume på, så kostumet blev ramt, men ikke manden
+48.  De prøvede at klippe mandens lange hår ved at skyde det af
+49.  Det var i en mørk gyde og hun kom til at skyde efter hans skygge
+50.  Det var de forkerte kugler i pistolen, så det ødelagde pistolen og kuglen
+51.  Pistolen gled ud af hånden på damen i det kun skyder efter manden og rammer derfor ikke
 
 
 ### 1.2 ALIEN
